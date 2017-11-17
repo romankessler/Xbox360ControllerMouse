@@ -8,7 +8,7 @@ ___
 ## Key assignment:
 ___
 
-| Controller        | simulate input                  |
+| Controller        | simulates input                  |
 | ------------------|---------------------------------|
 | Left Joystick     |mouse movement                   |
 | Right Joystick    | scroll horizontal and vertical  |
